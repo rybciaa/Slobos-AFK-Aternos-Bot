@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AmongUS_Rybcii.aternos.me",
-    "port": 34031,
-    "version": "1.21.4",
+    "ip": "petymc.6mc.pl",
+    "port": 25772,
+    "version": "1..19.4",
     "try-creative": true
   },
   "position": {
